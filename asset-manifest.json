@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.acd7fe6c.css",
+    "main.js": "/portfolio/static/js/main.13a4b4a5.js",
+    "static/media/real2.png": "/portfolio/static/media/real2.ab12762b9086e91e04e4.png",
+    "static/media/shoors2.jpg": "/portfolio/static/media/shoors2.d84dcd8f0ce3cfab1fd5.jpg",
+    "static/media/wnba1.png": "/portfolio/static/media/wnba1.dca8016c9669054cf25f.png",
+    "static/media/portfolio-6.png": "/portfolio/static/media/portfolio-6.4a10fac7d271e87859e9.png",
+    "static/media/real1.png": "/portfolio/static/media/real1.e62013c95dd97cabc316.png",
+    "static/media/wnba2.png": "/portfolio/static/media/wnba2.de92aadadf005f0cd022.png",
+    "static/media/spestrum.png": "/portfolio/static/media/spestrum.12dd31b40c434e55608e.png",
+    "static/media/slogo.png": "/portfolio/static/media/slogo.3b271effe614a02f9655.png",
+    "static/media/wnba3.png": "/portfolio/static/media/wnba3.c4e1e597b7c3e2cef8fd.png",
+    "static/media/brainstation.png": "/portfolio/static/media/brainstation.94e8c508e5eb33584dfd.png",
+    "static/media/facebook.png": "/portfolio/static/media/facebook.81dd033a37c4860f7121.png",
+    "static/media/ui-design.png": "/portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "static/media/linkedin.webp": "/portfolio/static/media/linkedin.4c11b4693dd4eebca5be.webp",
+    "index.html": "/portfolio/index.html",
+    "main.acd7fe6c.css.map": "/portfolio/static/css/main.acd7fe6c.css.map",
+    "main.13a4b4a5.js.map": "/portfolio/static/js/main.13a4b4a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acd7fe6c.css",
+    "static/js/main.13a4b4a5.js"
+  ]
+}
